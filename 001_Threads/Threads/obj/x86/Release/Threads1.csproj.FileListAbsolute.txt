@@ -1,0 +1,5 @@
+A:\ХНЭУ\Threading2\001_Threads\Threads\bin\Release\Threads.exe
+A:\ХНЭУ\Threading2\001_Threads\Threads\bin\Release\Threads.pdb
+A:\ХНЭУ\Threading2\001_Threads\Threads\obj\x86\Release\Threads1.csprojResolveAssemblyReference.cache
+A:\ХНЭУ\Threading2\001_Threads\Threads\obj\x86\Release\Threads.exe
+A:\ХНЭУ\Threading2\001_Threads\Threads\obj\x86\Release\Threads.pdb
